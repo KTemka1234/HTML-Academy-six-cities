@@ -1,4 +1,4 @@
-import { OfferCard } from '../components/offerCard/offerCard';
+import { OfferCard } from '../components/offerCard/OfferCard';
 
 const offerCardsData = [
   {
